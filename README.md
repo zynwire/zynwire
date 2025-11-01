@@ -4,4 +4,4 @@
 🖥️ **Programming Languages:** Python, Lua, JavaScript (NodeJS), C# :3  
 🌍 **Languages:** German, Russian, English  
 📍 **Location:** Germany  
-⚡ **Pronouns:** Any  
+⚡ **Pronouns:** she/her
