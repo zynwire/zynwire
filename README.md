@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-███████╗██╗   ██╗███╗   ██╗
-╚══███╔╝╚██╗ ██╔╝████╗  ██║
-  ███╔╝  ╚████╔╝ ██╔██╗ ██║
- ███╔╝    ╚██╔╝  ██║╚██╗██║
-███████╗   ██║   ██║ ╚████║
-╚══════╝   ╚═╝   ╚═╝  ╚═══╝
-```
-
 **i code, sometimes.**
 
 [![website](https://img.shields.io/badge/zynwire.dev-ff69b4?style=flat-square&logo=firefox&logoColor=white)](https://zynwire.dev)
@@ -20,7 +11,7 @@
 
 ```python
 class zyn:
-    os         = ["arch linux", "hyprland + fish shell", "macos"]
+    os         = ["arch linux, gentoo", "hyprland, sway, kde + fish shell", "macos"]
     lang       = ["python", "c++", "c", "lua"]
     interests  = ["modding", "radio tech", "phone rooting", "3d printing",
                   "mini computers", "crypto", "making cool stuff"]
@@ -44,12 +35,13 @@ class zyn:
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/arch-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Gentoo](https://img.shields.io/badge/gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+and much, much more!
 
 ---
 
-### stats
+### stats (i dont use github much can you tell)
 
 <div align="center">
 
